@@ -16,4 +16,4 @@ This repository contains the dependencies and code for Homework 7 combining Dock
 
 ### Logs to show Successfully generated QRCODE and saved in test directory 
 
-<img width="925" alt="Image" src="https://github.com/user-attachments/assets/1a1a2f44-d81a-4699-a27c-4fee87b2609a" />
+<img width="1214" alt="Image" src="https://github.com/user-attachments/assets/caef1c04-01c8-4abf-a143-bf0e37802639" />
