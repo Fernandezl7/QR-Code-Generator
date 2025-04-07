@@ -12,6 +12,8 @@ This repository contains the dependencies and code for Homework 7 combining Dock
 
 ### Generated a QR code that points to my GitHub repository , Given below MY QRCODE IMAGE 
 
+<img width="350" alt="Image" src="https://github.com/user-attachments/assets/2cf17c50-0f42-4fe8-9bc3-ca90105edd2e" />
 
 ### Logs to show Successfully generated QRCODE and saved in test directory 
 
+<img width="925" alt="Image" src="https://github.com/user-attachments/assets/1a1a2f44-d81a-4699-a27c-4fee87b2609a" />
